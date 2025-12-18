@@ -90,7 +90,7 @@ export default {
 
 @media (max-width: 768px) {
   .welcome-text {
-    font-size: 40px;
+    font-size: 26px;
   }
   .word{
     line-height: 2rem !important;
