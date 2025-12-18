@@ -142,7 +142,7 @@ onMounted(() => {
 
 <style lang="scss" scoped>
 .wrapper{
-  border: none;
+  border: none !important; 
 }
 .cover-img {
   height: 65vh;
@@ -316,7 +316,6 @@ a {
     width: 100%;
   }
 }
-
 @media screen and (max-width: 768px) {
   .cover-img{
     height: 25vh;

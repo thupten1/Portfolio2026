@@ -176,7 +176,7 @@ onMounted(() => {
 
 <style lang="scss" scoped>
 .wrapper{
-  border: none;
+  border: none !important; 
 }
 .cover-img {
   height: 65vh;

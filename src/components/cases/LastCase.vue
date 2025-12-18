@@ -201,6 +201,9 @@ const updateImagePosition = (event) => {
         margin-right: 1rem;
         overflow: hidden;
       }
+    .projectname{
+      padding-left: 15px;
+    }
   }
 }
 @media screen and (max-width: 767px) {
