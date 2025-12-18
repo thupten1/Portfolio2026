@@ -13,7 +13,7 @@
         <div class="navbar-end">
           <a class="navbar-item" @click="goToCases(); closeMenu()">Cases</a>
           <a class="navbar-item" @click="goToAboutme(); closeMenu()">About me</a>
-          <a class="navbar-item" href="#" @click="closeMenu()">Resume</a>
+          <a class="navbar-item" href="/Thupten's_CV_2025.pdf" target="_blank" @click="closeMenu()">Resume</a>
           <a class="navbar-item" @click="goToContact(); closeMenu()">Contact</a>
         </div>
       </div>

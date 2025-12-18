@@ -41,7 +41,7 @@ onMounted(() => {
       <div class="services">
         <p>UX Research<br/>UI/UX Design<br/>Development<br/></p>
       </div>
-      <a href="#">View page</a>
+      <a target="_blank" href="https://www.figma.com/proto/oBtQHcl3tftnPJ2cv2ARUU/Design-Merchant-Portal?page-id=0%3A1&node-id=104-23134&p=f&viewport=345%2C-19%2C0.02&t=F7Ao9i7tVITRMAuA-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=104%3A23134&show-proto-sidebar=1">View design</a>
     </div>
   </section>
   
@@ -61,7 +61,7 @@ onMounted(() => {
       <div class="services">
         <p>UX Research<br/>UI/UX Design<br/>Development<br/></p>
       </div>
-      <a href="#">View page</a> 
+      <a target="_blank" href="https://www.figma.com/proto/oBtQHcl3tftnPJ2cv2ARUU/Design-Merchant-Portal?page-id=0%3A1&node-id=104-23134&p=f&viewport=345%2C-19%2C0.02&t=F7Ao9i7tVITRMAuA-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=104%3A23134&show-proto-sidebar=1">View design</a> 
     </div>
   </section>
 

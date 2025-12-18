@@ -52,7 +52,7 @@ onMounted(() => {
       <div class="services">
         <p>UX Research<br/>UX Design</p>
       </div>
-      <a target="_blank" href="@/assets/documents/pdf/Concept_escaperoom.pdf">View document</a>
+      <a target="_blank" href="https://www.figma.com/proto/opdd0MwfUOjXSeSdaMwlYU/Designs?page-id=0%3A1&node-id=1-2&starting-point-node-id=1%3A2&t=bZRQ1lI7DHavMiZ4-1f">View design</a>
     </div>
   </section>
 
@@ -83,7 +83,7 @@ onMounted(() => {
       <div class="services">
         <p>UX Research<br/>UX Design</p>      
       </div>
-      <a target="_blank" href="@/assets/documents/pdf/Concept_escaperoom.pdf">View document</a>
+      <a target="_blank" href="https://www.figma.com/proto/opdd0MwfUOjXSeSdaMwlYU/Designs?page-id=0%3A1&node-id=1-2&starting-point-node-id=1%3A2&t=bZRQ1lI7DHavMiZ4-1f">View design</a>
     </div>
   </section>
 

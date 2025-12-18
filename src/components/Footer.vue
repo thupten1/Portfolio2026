@@ -28,7 +28,7 @@
           </div>
           <div class="container-right_text-right">
             <p>
-              Download
+              <a href="/Thupten's_CV_2025.pdf" target="_blank" class="download-link">Download</a>
             </p>
           </div>
         </div>
@@ -38,6 +38,17 @@
 </template>
 
 <style lang="scss" scoped>
+.download-link {
+  color: white;
+  text-decoration: underline;
+  cursor: pointer;
+  transition: color 0.3s ease;
+  
+  &:hover {
+    color: #3498db;
+  }
+}
+
 .footertext {
 
 }

@@ -41,7 +41,7 @@ onMounted(() => {
         <div class="services">
           <p>UI/UX Design<br/>Front-end Development<br/>Project Management</p>
         </div>
-        <a href="#">View page</a>
+        <a target="_blank" href="https://natuursteenshop.nl/">View page</a>
       </div>
     </section>
     
@@ -60,7 +60,7 @@ onMounted(() => {
         <div class="services">
           <p>UI/UX Design<br/>Front-end Development<br/>Project Management</p>
         </div>
-        <a href="#">View page</a> 
+        <a target="_blank" href="https://natuursteenshop.nl/">View page</a> 
       </div>
     </section>
 

@@ -40,7 +40,7 @@ onMounted(() => {
       <div class="services">
         <p>UI/UX Design<br/>Front-end Development<br/>Project Management</p>
       </div>
-      <a target="_blank" href="@/assets/documents/pdf/Concept_escaperoom.pdf">View document</a>
+      <a target="_blank" href="http://www.gebropdam.nl/">View page</a>
     </div>
   </section>
 
@@ -59,7 +59,7 @@ onMounted(() => {
       <div class="services">
         <p>UI/UX Design<br/>Front-end Development<br/>Project Management</p>
       </div>
-      <a target="_blank" href="@/assets/documents/pdf/Concept_escaperoom.pdf">View document</a>
+      <a target="_blank" href="http://www.gebropdam.nl/">View page</a>
     </div>
   </section>
   <section>
